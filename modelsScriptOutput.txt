@@ -1,0 +1,30 @@
+Number 1:
+[{'emailAddress': 'jm@byu.edu', 'name': 'Jaicy Milam'}, {'emailAddress': 'nd@byu.edu', 'name': 'Nathan Dudley'}, {'emailAddress': 'ts@byu.edu', 'name': 'Travis Selland'}]
+-------------
+Number 2:
+[{'fees': Decimal('120.00'), 'name': 'WebDev'}]
+-------------
+Number 3:
+[{'student': 1}]
+-------------
+Number 4:
+[{'professor__name': 'Conan Albrecht'}]
+-------------
+Number 5:
+[{'student__name': 'Jaicy Milam'}]
+-------------
+Number 6:
+Average: {'fees__avg': 110.0}
+Max: {'fees__max': Decimal('120.00')}
+Min: {'fees__min': Decimal('100.00')}
+-------------
+Number 7:
+[<Seminar: Elective>]
+-------------
+Number 8:
+[{'address': '200 S 200 W, Provo', 'name': 'Nathan Dudley'}]
+-------------
+Number 9:
+Students: 3
+Professors: 2
+Seminars: 3
